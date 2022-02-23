@@ -1,7 +1,2 @@
-<<<<<<< Updated upstream
 #!/bin/bash
 echo "School"
-=======
-#!/bin/bash
-echo "School"
->>>>>>> Stashed changes
